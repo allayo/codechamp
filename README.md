@@ -5,7 +5,7 @@ A new Flutter project.
 ## Getting Started
 
 This project is a starting point for my SCA Week 3 assessment I Created a Welcome, Sign Up and login page for code
-champ. Users can Navigate to the various pages using the buttons and clickable text or links
+champ. Users can Navigate to the various pages using the buttons and clickable text or links.
 
 A few resources to get you started if this is your first Flutter project:
 
